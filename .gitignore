@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+build/
+chroma_db/
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+node_modules/
+frontend/dist/
+.vite/
+*.local
+
+.claude/
+.DS_Store
